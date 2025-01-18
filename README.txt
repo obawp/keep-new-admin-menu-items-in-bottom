@@ -4,7 +4,7 @@ Donate link: https://obawp.com/doacoes/
 Tags: menu, admin, menu order
 Requires at least: 4.0
 Tested up to: 6.7.1
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

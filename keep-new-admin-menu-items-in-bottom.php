@@ -4,7 +4,7 @@
  * Plugin Name: Keep New Admin Menu Items in Bottom
  * Plugin URI: https://github.com/obawp/keep-new-admin-menu-items-in-bottom
  * Description: Ensures that new admin menu items are placed at the bottom of the menu.
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author: ObaWP
  * Author URI: https://obawp.com
  * License: GPL-2.0+
