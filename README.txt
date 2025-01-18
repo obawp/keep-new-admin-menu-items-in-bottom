@@ -1,6 +1,6 @@
 === Keep New Admin Menu Items in Bottom ===
-Contributors: antonio24073
-Donate link: https://obawp.com
+Contributors: antonio24073, obawp
+Donate link: https://obawp.com/doacoes/
 Tags: menu, admin, menu order
 Requires at least: 4.0
 Tested up to: 6.7.1
