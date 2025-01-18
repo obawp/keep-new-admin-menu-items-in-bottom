@@ -77,6 +77,9 @@ Yes, you can use the `knamib_default_slugs` filter to modify the list of menu it
 
 == Changelog ==
 
+= 1.2.1 =
+* Update: contributors and donation link in README
+
 = 1.2.0 =
 * Added support for WooCommerce and Elementor menu items
 * Added developer filter hook for customizing default slugs
